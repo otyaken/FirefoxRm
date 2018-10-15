@@ -1,1 +1,1 @@
-# FirefoxRm
+bash firefox.sh
